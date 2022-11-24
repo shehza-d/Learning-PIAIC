@@ -54,6 +54,40 @@
 //make rock papge seasor
 //https://github.com/adil-innovation-lab/javascript_practical_projects
 //
-//
-//
-//
+
+
+// Hashing
+// Target for beginners:
+// JS/TS aur theory
+
+// Advance ne beginner ky guide karna hy aur Serverless API sheekni hy 
+// Aws/  lamda Functions  / qraphQL / 
+
+// Thermology to learn:
+// Stable coin
+// USDC
+// CBDC
+// Decentralized Finance DeFi
+// NFT
+// Blockchain
+// Supply 
+// OOP 
+// Hello world in solitidy
+// Molana modudi = jihad hil islam
+// Mufti taqi usmani = islamic finance
+// Assignment pool
+// Make token
+// Uniswap=
+// HashMap = JSON
+
+1-Nov-2022.
+// Liquidity pool = خریدوروخت
+// Order book system = 
+// Callback
+// (Higher order function)
+
+22-Nov-2022
+// Dev dependence 
+// Direct code ma change nhi karna phale masla dhoondna hy
+// D/B nodenext and esnext
+
