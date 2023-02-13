@@ -91,3 +91,95 @@
 // Direct code ma change nhi karna phale masla dhoondna hy
 // D/B nodenext and esnext
 
+all prevois pushed to github
+
+
+Classes 
+constructor function class banty hi call hota hy sabse phale 
+
+Overloading and overriding is different
+
+Agar class se bahar se kisi chez ko access dena hy tw get and set se hogal
+
+Constructor ak method hy aur kya ak se zada methods ho sagty hyn??
+
+
+@@@
+Bewakoof bane wala kuxh banae wala kuxh humme kya (university)
+Overriding and overloading 
+Templates in cpp
+Generic in TypeScript 
+
+27-Dec-2022
+Abstraction is start of design
+Problem statement ko define karo laymen's terms ma this is abstraction
+Isse problem statement ko samajne ma aasani hoti hy
+Abstraction is not part of OOP 
+Abstraction tab se thi jab structural programming hoti thi
+
+Encapsulation: Only expose relevant data
+ human system andaz bhOt kuxh chala raha hy samne kuxh aur hy
+
+Inharate: allah ne diya abba se liya 
+Polymorphism: 
+
+Ahmed chunai
+Education has a perpose
+Karachi the new silicone valley 
+Intigenis thoughts
+This is real education 
+
+Al is compaditive
+American company ma ai ky liye education background aur strong knowledge mangty hyn
+
+
+Blockchain is new ye fida hy uska
+
+Fresh object vs literal object 
+as type casterp
+
+4-jan
+Zindagi ka maqsad shadi hy
+Edge computing
+Serverless functions
+Edge Serverless computing (aws)
+Computing vs Processing
+Standardization
+React is not SEO friendly
+
+Ameen alam
+Next 12 default
+
+Hat tab lage ga jab backwards compatibility ho
+
+Convention over configuration 
+Convention 
+
+English book pharo
+Anees AI
+Adil
+DevOps
+
+Simple API in Next
+Advance API Teraform CDK
+Serverside component per onClick event nhi hoty
+
+Hydration 
+
+Serverside component per charka nhi supported abhi so for the scake of learning useClint
+
+Ak presentation 
+
+
+**********************************
+Tailwind or charka
+Abhi assignment valid hy?
+Its hard to think about design code tw kar sagta hu ma
+
+Ap kisi ko wo chez nhi sheeka sagty jo usse phale se aati hy
+**********************************
+14-feb-2023
+learn tailwind now with css
+complete git course from 10 perls when learning git in couse
+complete dpp-world course from when learning solidity in couse
+
